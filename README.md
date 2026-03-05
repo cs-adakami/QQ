@@ -1,0 +1,1 @@
+rangAdaKam2
