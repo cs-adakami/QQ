@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /public/
-Sitemap: https://www.layananbantuan-adakami.online/sitemap.xml
+Sitemap: x/sitemap.xml
 
 User-agent: Googlebot
 Allow: /
