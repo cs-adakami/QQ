@@ -1,3 +1,4 @@
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import ProtectedContent from './components/ProtectedContent';
 import Header from './components/Header';
 import ServiceGrid from './components/ServiceGrid';
@@ -22,6 +23,7 @@ function App() {
 
         <Footer />
         <WhatsAppFloat />
+        <SpeedInsights />
       </div>
     </ProtectedContent>
   );
