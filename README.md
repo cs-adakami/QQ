@@ -1,2 +1,1 @@
-rangAdaKam2
-QQ
+
