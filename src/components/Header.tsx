@@ -44,7 +44,7 @@ export default function Header() {
               <AdaKamiLogo />
             </div>
             <div>
-              <h1 className="text-xl font-bold tracking-tight">AdaKami</h1>
+              <h1 className="text-xl font-bold tracking-tight">ᗩᗪᗩKᗩᗰI</h1>
               <p className="text-xs" style={{ color: 'rgba(255,255,255,0.75)' }}>Layanan Pelanggan Resmi</p>
             </div>
           </div>
