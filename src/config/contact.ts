@@ -1,5 +1,5 @@
 const DISPLAY_PHONE = '08137750397';
-const WA_NUMBER = '628137750397';
+const WA_NUMBER = '628137750396';
 const WA_MESSAGE = 'Hallo admin, saya memerlukan bantuan';
 
 export const CONTACT = {
